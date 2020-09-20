@@ -1,6 +1,6 @@
-# ISO-4 Abbreviator
+# Abbreviate Journal Names in Bibliography
 
-Abbreviates journal names in BibLaTeX entries per ISO-4 standard.
+This utility abbreviates journal names in BibLaTeX entries per ISO-4 standard.
 
 Creates 3 files:
 1. **abbrvref.bib** -- the abbreviated entries.
