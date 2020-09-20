@@ -10,6 +10,8 @@ Results may be imperfect, so always check the output for errors.
 ### Example usage
 
 ```python
+from iso4abrv import iso4abrv
+
 iso4abrv(open('example.bib').read())
 ```
 Then in LaTeX:
