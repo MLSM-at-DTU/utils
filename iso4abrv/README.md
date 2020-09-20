@@ -1,4 +1,4 @@
-# Abbreviate Journal Names in Bibliography
+# Abbreviate Journal Names in LaTeX Bibliography
 
 This utility abbreviates journal names in BibLaTeX entries per ISO-4 standard.
 
