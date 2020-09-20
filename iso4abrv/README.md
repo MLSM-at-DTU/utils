@@ -1,6 +1,6 @@
 # Abbreviate Journal Names in LaTeX Bibliography
 
-This utility abbreviates journal names in BibLaTeX entries per ISO-4 standard. It creates 3 files:
+This utility abbreviates journal names in BibLaTeX entries per ISO-4 standard. It outputs 3 files:
 1. **abbrvref.bib** -- the abbreviated entries.
 1. **jourabrv.bib** -- BibLaTeX strings for the abbreviated journal names.
 1. **jourfull.bib** -- BibLaTeX strings for the full journal names (in case you need to revert).
