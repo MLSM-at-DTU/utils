@@ -5,7 +5,7 @@ This utility abbreviates journal names in BibLaTeX entries per ISO-4 standard. I
 1. **jourabrv.bib** -- BibLaTeX strings for the abbreviated journal names.
 1. **jourfull.bib** -- BibLaTeX strings for the full journal names (in case you need to revert).
 
-Results are best-effort and may be imperfect, so always check the output for errors.
+Results may be imperfect, so always check the output for errors.
 
 ### Example usage
 
